@@ -57,3 +57,8 @@ We trained three regression models:
 Install dependencies with:
 ```bash
 pip install -r requirements.txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
